@@ -1,16 +1,13 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2345F71A&width=700&lines=Hi+everyone%2C+my+name+is+Konstantin+and+I'm+beginner+developer.)](https://git.io/typing-svg)
 
-<!--
-**Konstantin-174/Konstantin-174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![HTML](https://img.shields.io/badge/-html-333333?style=for-the-badge&logo=html5&logoColor=FF3300)
+![CSS](https://img.shields.io/badge/-css-333333?style=for-the-badge&logo=css3&logoColor=3300CC)
+![SCSS](https://img.shields.io/badge/-SCSS-333333?style=for-the-badge&logo=sass&logoColor=FF33CC)
+![JAVACRIPT](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=FFFF00)
+![TYPESCRIPT](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=3300CC)
+![REACT](https://img.shields.io/badge/-react-333333?style=for-the-badge&logo=react&logoColor=00CCFF)
+![REDUX](https://img.shields.io/badge/-redux-333333?style=for-the-badge&logo=redux&logoColor=9933CC)
+![JEST](https://img.shields.io/badge/-jest-333333?style=for-the-badge&logo=jest&logoColor=FF3300)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![codewars](https://www.codewars.com/users/Konstantin-174/badges/micro)](https://www.codewars.com/users/Konstantin-174)
