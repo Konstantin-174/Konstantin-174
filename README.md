@@ -11,3 +11,8 @@
 ![JEST](https://img.shields.io/badge/-jest-333333?style=for-the-badge&logo=jest&logoColor=FF3300)
 
 [![codewars](https://www.codewars.com/users/Konstantin-174/badges/micro)](https://www.codewars.com/users/Konstantin-174)
+
+## This is a list of my training projects:
+* [ToDoList](https://konstantin-174.github.io/my-todolist/) by mentoring from [IT-Incubator](https://www.youtube.com/c/ITKAMASUTRA?app=desktop);
+* [Counter](https://konstantin-174.github.io/my-counter/) by mentoring from [IT-Incubator](https://www.youtube.com/c/ITKAMASUTRA?app=desktop);
+* [Social Network](https://konstantin-174.github.io/sn-new/) by myself with watching [manual](https://www.youtube.com/watch?v=gb7gMluAeao&list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8&ab_channel=IT-KAMASUTRA);
