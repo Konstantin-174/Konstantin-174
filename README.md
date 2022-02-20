@@ -13,6 +13,11 @@
 [![codewars](https://www.codewars.com/users/Konstantin-174/badges/micro)](https://www.codewars.com/users/Konstantin-174)
 
 ## This is a list of my training projects:
-* [ToDoList](https://konstantin-174.github.io/my-todolist/) by mentoring from [IT-Incubator](https://www.youtube.com/c/ITKAMASUTRA?app=desktop);
-* [Counter](https://konstantin-174.github.io/my-counter/) by mentoring from [IT-Incubator](https://www.youtube.com/c/ITKAMASUTRA?app=desktop);
-* [Social Network](https://konstantin-174.github.io/sn-new/) by myself with watching [manual](https://www.youtube.com/watch?v=gb7gMluAeao&list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8&ab_channel=IT-KAMASUTRA);
+### by mentoring from [IT-Incubator](https://www.youtube.com/c/ITKAMASUTRA?app=desktop) and by myself with watching [manual](https://www.youtube.com/watch?v=gb7gMluAeao&list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8&ab_channel=IT-KAMASUTRA):
+* [ToDoList](https://konstantin-174.github.io/my-todolist/);
+* [Counter](https://konstantin-174.github.io/my-counter/);
+* [Social Network](https://konstantin-174.github.io/sn-new/);
+
+### CSS training:
+* [Le Corte](https://konstantin-174.github.io/css-training-course-le_corte/);
+
