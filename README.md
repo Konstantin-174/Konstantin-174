@@ -20,4 +20,5 @@
 
 ### CSS training:
 * [Le Corte](https://konstantin-174.github.io/css-training-course-le_corte/);
+* [CSS training](https://konstantin-174.github.io/css-training-course/);
 
