@@ -20,5 +20,7 @@
 
 ### CSS training:
 * [Le Corte](https://konstantin-174.github.io/css-training-course-le_corte/);
-* [CSS training](https://konstantin-174.github.io/css-training-course/);
+* [Productivity](https://konstantin-174.github.io/css-training-course/);
+* [Friday Live Coding](https://konstantin-174.github.io/friday-life-coding/);
+* [Portfolio](https://konstantin-174.github.io/rss-portfolio-by-myself/);
 
