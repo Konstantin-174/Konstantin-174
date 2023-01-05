@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2345F71A&width=700&lines=Hi+everyone%2C+my+name+is+Konstantin+and+I'm+beginner+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2345F71A&width=700&lines=Hi+everyone%2C+my+name+is+Konstantin+and+I'm+beginner+developer!!!!)](https://git.io/typing-svg)
 
 
 ![HTML](https://img.shields.io/badge/-html-333333?style=for-the-badge&logo=html5&logoColor=FF3300)
